@@ -1,0 +1,8 @@
+{
+    "name": "adventofcode2017",
+    "version": "1.0.0",
+    "dependencies": {
+        "@types/node": "^8.0.57",
+        "typescript": "^2.6.2"
+    }
+}
