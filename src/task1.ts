@@ -1,4 +1,4 @@
-
+export {}
 let input = process.argv[2].split( '' ).map( digit => Number( digit ) )
 
 const step = process.argv[3] !== undefined ? input.length / 2 : 1
